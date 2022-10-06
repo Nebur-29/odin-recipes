@@ -1,1 +1,1 @@
- A brutal HTML recipes website.
+ A brutal style HTML recipes website.
